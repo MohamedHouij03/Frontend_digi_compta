@@ -19,8 +19,8 @@
 
 ### 🎬 Démo Vidéo
 
-<!-- PLACEHOLDER: Demo Video — Replace the URL below with your actual demo video link -->
-[![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-Coming_Soon-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PLACEHOLDER_DEMO_VIDEO)
+
+
 
 
 ---
