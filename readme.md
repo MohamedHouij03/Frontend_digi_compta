@@ -279,7 +279,7 @@ Digi Compta cible spécifiquement l'écosystème réglementaire tunisien avec l'
 
 | 📤 Upload PDF vers n8n | 🔄 Workflow n8n |
 |:-----------------------:|:---------------:|
-| ![Upload](https://placehold.co/600x400/1a1a2e/61DAFB?text=📤+Upload+PDF+→+n8n) | ![n8n Workflow](https://placehold.co/600x400/1a1a2e/EA5B4B?text=🔄+n8n+Workflow+OCR) |
+<img width="1919" height="915" alt="Capture d&#39;écran 2025-08-28 100832" src="https://github.com/user-attachments/assets/6a90caba-6f59-46a3-a180-c9b53ac86147" />
 
 | 🤖 Extraction Mistral AI | ⚡ Réponse Groq |
 |:------------------------:|:---------------:|
